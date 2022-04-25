@@ -1,2 +1,8 @@
 # lyratix
 DecentroDaddy
+Mascotify
+Smartrecordingartistcontracts
+siteglass
+mapfrequencyresponse
+videoagents
+
