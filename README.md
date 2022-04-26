@@ -16,3 +16,5 @@ The Stem Player allows users to create and listen to unique remixes of audio tra
 
         lyratixianist can use stem too save on storage
 # points to the current state of the Holochain repository
+sightglass turntable-claspen-loungemoniter wit razzy technology-filtofil a reeltoreel replica
+tape vynl cassette|software-interpolated blend capabilitys algorithm scratch,cut,pitch control, developed by shx-connect 
