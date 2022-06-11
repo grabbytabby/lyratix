@@ -18,3 +18,6 @@ The Stem Player allows users to create and listen to unique remixes of audio tra
 # points to the current state of the Holochain repository
 sightglass turntable-claspen-loungemoniter wit razzy technology-filtofil a reeltoreel replica
 tape vynl cassette|software-interpolated blend capabilitys algorithm scratch,cut,pitch control, developed by shx-connect 
+
+
+Akaunting is a free, online and open source accounting software designed for small businesses and freelancers. It is built with modern technologies such as Laravel, VueJS, Bootstrap 4, RESTful API, etc. Thanks to its modular structure, Akaunting provides an awesome App Store for users and developers. https://akaunting.com/
